@@ -1,8 +1,9 @@
 # Site settings
 title: Boca Chica Brewing
+slogan: Brewery of Mars
 email: hello@bocachicabrewing.com
 url: https://bocachicabrewing.com
-description: "The Brewery of Mars. Out-of-this-world craft beers engineered in Boca Chica, Texas next door to the Starship Factory."
+description: "Out-of-this-world craft beers engineered next door to the Starship Factory in Boca Chica, Texas."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
